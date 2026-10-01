@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "iRap — Chamado do Rap",
+    "slug": "irap-chamado-do-rap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "irap",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.leandrozzm3.irap"
+    },
+    "android": {
+      "package": "com.leandrozzm3.irap",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#D7FF3F"
+      }
+    },
+    "plugins": []
+  }
+}
